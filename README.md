@@ -5,3 +5,5 @@
 -name -prune -ctime -mtime -print五个参数
 
 其中-prune排除的目录直接跟随在-prune后面
+
+myfind为最终版
