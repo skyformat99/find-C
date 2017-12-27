@@ -1,9 +1,3 @@
-# find-C-
-用C语言实现Linux find命令
-
-实现了
--name -prune -ctime -mtime -print五个参数
-
-其中-prune排除的目录直接跟随在-prune后面
-
-myfind为最终版
+您好, 我是find-C这个小程序的作者, 您fork了我的代码,
+本来无所谓, 但是老师突然说要查重, 我怕被人抄了,
+能不能请你删掉仓库, 如果您需要的话可以留一份本地文件
